@@ -1,0 +1,5 @@
+# Next bundled files
+.next/
+
+# Node
+node_modules/
